@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: white;
+    color: #2b2024;
+    margin: 100px 0 0 100px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #74f6a7;
+    opacity: 1;
+}
+
+#show {
+    font-size: 50px;
+    margin: 200px 0 0 200px;
+}
