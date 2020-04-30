@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
 * {
     box-sizing: border-box;
 }
@@ -21,6 +23,8 @@
 }
 
 #show {
+    font-family: "Lobster", cursive;
     font-size: 50px;
     margin: 200px 0 0 200px;
+    color: #5d13e7;
 }
